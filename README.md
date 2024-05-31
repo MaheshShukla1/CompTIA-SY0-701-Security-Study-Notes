@@ -3,6 +3,7 @@
 
 ## [CompTia Security cheat sheet guide](https://github.com/MaheshShukla1/CompTia-Security-prep/wiki/CompTia-Security--cheat-sheet-guide)
 
+## [Mastering Control Ojectives](https://github.com/MaheshShukla1/CompTia-Security-prep/wiki/Mastering-Control-Objectives-and-Cybersecurity-Essentials)
 #### 📖 Detailed Notes: Comprehensive explanations of key Security+ concepts.
 #### 📝 Cheatsheet: Quick reference guide for essential terms, protocols, and commands.
 #### 🎯 Exam Objectives: Mapped to the latest exam objectives to ensure full coverage.
