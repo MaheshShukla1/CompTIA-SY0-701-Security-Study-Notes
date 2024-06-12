@@ -23,7 +23,7 @@
 * Interactive Learning: Engage with interactive elements like quizzes, flashcards, and practice exams.
   
 ### 🚀 Getting Started
-* Clone the Repo: Run git clone https://github.com/MaheshShukla1/CompTia-Security-701.git to clone the repository to your local machine.
+* Clone the Repo: Run git clone https://github.com/MaheshShukla1/CompTIA-Security-Plus-Notes-Cheatsheet.git to clone the repository to your local machine.
 * Explore the Content: Browse through the notes, cheatsheets, and additional resources provided.
 * Start Studying: Use the material to reinforce your understanding and improve your exam readiness.
 ### 📚 CompTIA Security+ Exam Topics
