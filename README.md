@@ -4,7 +4,7 @@
 
 ## [Mastering Control Ojectives](https://github.com/MaheshShukla1/CompTia-Security-prep/wiki/Mastering-Control-Objectives-and-Cybersecurity-Essentials)
 
-## [Comparing Security Controls](https://github.com/MaheshShukla1/CompTia-Security-701)
+## [Mastering Control Objectives and Cybersecurity Essentials](https://github.com/MaheshShukla1/CompTIA-Security-Plus-Notes-Cheatsheet/wiki/Mastering-Control-Objectives-and-Cybersecurity-Essentials)
 
 #### Welcome to the CompTIA Security+ Notes & Cheatsheet repository! This resource is meticulously crafted to help you prepare effectively for the CompTIA Security+ exam (SY0-701).
 #### Welcome to the CompTIA Security+ Notes & Cheatsheet repository! This resource is designed to help you prepare effectively for the CompTIA Security+ exam.
