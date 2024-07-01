@@ -1,4 +1,4 @@
-# 📚 CompTIA Security+ Notes & Cheatsheet
+# 📚 CompTIA Security+ Notes & Cheatsheet 📘
 
 ## [CompTia Security cheat sheet guide](https://github.com/MaheshShukla1/CompTia-Security-prep/wiki/CompTia-Security--cheat-sheet-guide)
 
