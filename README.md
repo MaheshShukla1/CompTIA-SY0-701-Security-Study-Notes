@@ -12,9 +12,9 @@
 
 ### 📝 Contents
 * Detailed Notes: Comprehensive explanations of key Security+ concepts.
-* Cheatsheet: Quick reference guide for essential terms, protocols, and commands.
-* Mastering Control Objectives: Understanding and mastering the security control objectives.
-* Exam Objectives Mapping: Mapped to the latest exam objectives to ensure full coverage.
+* Cheatsheet: Quick reference guide for essential terms, protocols, and commands
+* Mastering Control Objectives: Understanding and mastering the security control objectives
+* Exam Objectives Mapping: Mapped to the latest exam objectives to ensure full coverage
 * Study Tips: Practical advice to enhance your exam preparation and study strategies.
   
 ### 💡 Why Use This Repo?
