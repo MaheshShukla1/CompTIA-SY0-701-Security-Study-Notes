@@ -59,5 +59,4 @@ Feel free to contribute by opening issues for feedback, suggestions, or errors f
 
 ### 📜 License
 #### This project is licensed under the MIT License - see the [License.txt](https://github.com/user-attachments/files/15513942/License.txt)
-
 #### Start your journey to becoming Security+ certified today!
